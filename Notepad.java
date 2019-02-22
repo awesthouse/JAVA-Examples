@@ -15,7 +15,7 @@ public class Notepad extends JFrame
     
     public Notepad()
     {
-        setTitle("Notepad by Westhouse");
+        setTitle("Notepad by Vesterhus");
         txtArea = new JTextArea();
         txtArea.setLineWrap(true);
         txtArea.setWrapStyleWord(true);
